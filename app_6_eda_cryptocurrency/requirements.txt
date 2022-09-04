@@ -1,9 +1,8 @@
-import streamlit as st
-from PIL import Image
-import pandas as pd
-import base64
-import matplotlib.pyplot as plt
-from bs4 import BeautifulSoup
-import requests
-import json
-import time
+bs4==0.0.1
+requests==2.27.1
+pillow==9.0.1
+streamlit==1.12.2
+pandas==1.4.1
+base58==2.1.1
+matplotlib==3.5.1
+lxml==4.8.0
