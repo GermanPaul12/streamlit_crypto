@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import yfinance as yf
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 st.title('S&P 500 App')
 
 st.markdown("""
